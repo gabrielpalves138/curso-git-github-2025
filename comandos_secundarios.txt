@@ -3,3 +3,12 @@ Este arquivo contém informações adicionais para git
 - Primeiro Comando
 - Segundo comando
 
+# Comandos mais genéricos
+- comandos estranhos
+
+# Mais comandos!!!
+
+adskijaidsaasakas
+ikadsjasda
+aisdjasiods
+>>>>>>> secundaria
