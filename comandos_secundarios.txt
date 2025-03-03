@@ -1,10 +1,5 @@
 Este arquivo contém informações adicionais para git
 
 - Primeiro Comando
-<<<<<<< HEAD
-- Segundo comando
-=======
 - Segundo comando
 
-Orgia
->>>>>>> secundaria
